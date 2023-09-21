@@ -1,0 +1,11 @@
+Este documento enumera los requisitos y las librerías necesarias para desarrollar un bot de calculadora para Discord utilizando Python y la librería discord.py. El bot permitirá a los usuarios realizar cálculos matemáticos simples, así como obtener el cuadrado y el cubo de un número.
+Requisitos del Proyecto
+Python: Asegúrate de tener Python 3.x instalado en tu sistema.
+
+Librería discord.py: La librería discord.py es esencial para interactuar con la API de Discord y crear un bot. 
+
+pip install discord.py
+
+Librería sympy: La librería sympy se utiliza para evaluar expresiones matemáticas de manera segura.
+
+pip install sympy
